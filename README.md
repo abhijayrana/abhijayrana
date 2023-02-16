@@ -13,4 +13,3 @@ abhijayrana/abhijayrana is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhijayrana)
