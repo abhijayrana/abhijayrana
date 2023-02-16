@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=abhijayrana&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhijayrana&count_private=true&show_icons=true&theme=radical)
 
 
 bcp'25
