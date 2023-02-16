@@ -1,3 +1,6 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=abhijayrana&count_private=true)
+
+
 bcp'25
 
 twitter @abhijaymrana
