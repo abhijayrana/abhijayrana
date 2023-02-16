@@ -1,9 +1,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=abhijayrana&count_private=true&show_icons=true&theme=radical&layout=compact)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijayrana&theme=radical)
 
 ### current
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhijayrana&repo=3d-Rendering-JAVA&theme=radical)](https://github.com/brownlaboratories/brownlabs)
+https://github.com/brownlaboratories/brownlabs
 
 bcp'25
 
