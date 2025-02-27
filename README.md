@@ -1,11 +1,8 @@
-interested in:
+<ins>interested in:</ins>\
+mech interp\
+alignment\
+labor\
+ontology post-singularity
 
-mech interp
-alignment
-labor
-epistemology
-
-
-email me!
-
+<ins>email me!</ins>\
 abhijayrana [at] gmail [dot] com
