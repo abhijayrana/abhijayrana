@@ -5,7 +5,7 @@ labor\
 ontology post-singularity
 
 <ins> working on... </ins>\
-actionable observability (email/dm for beta)
+actionable observability at [nuntius.ai](https://www.nuntius.ai/)
 
 <ins>email me!</ins>\
 abhijayrana [at] gmail [dot] com
